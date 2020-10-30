@@ -1,0 +1,136 @@
+body{
+    margin:0;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #ffedff; 
+
+    
+}
+h1{
+    margin:0 auto 0 auto;
+}
+
+
+.in{
+    background-color: #ffedff; 
+}
+.ro{
+    background-color: #ffedff; 
+    height: 150px;
+    width:200px;
+    position:absolute;
+    left:10px;
+    padding-top:10px;
+}
+.val{
+    background-color: #ffedff;
+    margin-left: 0;
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 90px;
+}
+.clo{
+    position: absolute;
+    padding-top: 10px;
+    right:190px;
+}
+.clo1{
+    position: absolute;
+    left: 60px;
+    
+}
+.write{
+    font-size: 35px;
+    font-family: 'Sacramento',cursive;
+    color: #854777;
+    padding-top: 60px;
+}
+#sec{
+    font-family: 'Gloria Hallelujah',cursive;
+    color: #854777;
+}
+.profile{
+    padding-top: 20px;
+   
+ 
+ }
+ .pro{
+     position: relative;
+     left:0px;
+ }
+ .skills{
+    text-align: center;
+    
+}
+.yo{
+    background-color: #ffedff;
+    height: 150px;
+    width: 200px;
+}
+.skills{
+    font-family: 'Gloria Hallelujah', cursive;  
+    color:#854777;
+}
+
+.contact-me
+{
+    font-family: 'Gloria Hallelujah', cursive;  
+    color:#854777;
+    text-align: center;
+}
+.profile{
+    text-align: center;
+    font-family: 'Gloria Hallelujah', cursive;  
+    color:#854777;
+}
+
+.sun{
+    position:absolute;
+    right:10px;
+}
+.bottom-container{
+    background-color: #be97dc;
+    margin-bottom: 1px;
+    color:#854777;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 10%;
+
+}
+.butn{
+    
+    background: #ccc1ff;
+    background-image: -webkit-linear-gradient(top, #ccc1ff, #a773c3);
+    background-image: -moz-linear-gradient(top, #ccc1ff, #a773c3);
+    background-image: -ms-linear-gradient(top, #ccc1ff, #a773c3);
+    background-image: -o-linear-gradient(top, #ccc1ff, #a773c3);
+    background-image: linear-gradient(to bottom, #ccc1ff, #a773c3);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Gloria Hallelujah', cursive;  
+    color: #ffffff;
+    font-size: 12px;
+    position: relative;
+    bottom:15px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+.butn:hover{
+    background: #ccc1ff;
+    background-image: -webkit-linear-gradient(top, #ccc1ff, #3498db);
+    background-image: -moz-linear-gradient(top, #ccc1ff, #3498db);
+    background-image: -ms-linear-gradient(top, #ccc1ff, #3498db);
+    background-image: -o-linear-gradient(top, #ccc1ff, #3498db);
+    background-image: linear-gradient(to bottom, #ccc1ff, #3498db);
+    text-decoration: none;
+}
+td{
+    color: #854777;
+}
